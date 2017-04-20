@@ -1,0 +1,25 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "Week 12",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies":{
+    "inquirer":"*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jackie2017/bamazon.git"
+  },
+  "keywords": [
+    "bamazon"
+  ],
+  "author": "Jackie Young",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jackie2017/bamazon/issues"
+  },
+  "homepage": "https://github.com/jackie2017/bamazon#readme"
+}
